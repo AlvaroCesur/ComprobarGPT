@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+h1{text-align:center;
+}
+
+.subtitulo{
+	font-size:12px;
+}
+
+body{
+	background-color:#FFC;
+}
+
+table td{
+	text-align:center;
+	border:1px #000099 dotted;
+
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	background-color:#FC3;
+	padding: 5px 20px;
+}
+
+.centrado{
+	text-align:center;
+}
+
+.formumagen {
+	padding:10%;
+	margin: 0 auto;
+	text-align: center;
+  }
+  
+  .formumagen td {
+	padding: 50px;
+  }
+  
+  .subida {
+	margin-top: 10px;
+  }
